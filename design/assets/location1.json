@@ -1,0 +1,11 @@
+[
+        {
+			
+            "name": "(P1) 3320 Prospect NW",
+			"id": 1,
+            "location": { "latitude": 38.90575, "longitude": -77.049 },
+			"focusLocation": { "zoom": 14, "bearing": 90 },
+    "category": "Dealership",
+    "details": "10 Vehicles available" 
+        }
+    ]

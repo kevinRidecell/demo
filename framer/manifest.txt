@@ -1732,6 +1732,7 @@ design/images/BjgOv2dke01RE32ARXTJJ01ME.png
 design/images/5sCrXAbCvosW6cjQ6xSjPHknofM.png
 design/images/0Yng3inlChYFZwwGHhpmFs46g.png
 design/assets/location1.json
+design/assets/location1 (3).json
 design/assets/location1 (2).json
 design/assets/location1 (1).json
 build/vendors.js

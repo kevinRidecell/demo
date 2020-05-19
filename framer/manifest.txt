@@ -1706,6 +1706,7 @@ node_modules/@framer/anubisvic_ofx.interactive-form-elements/code/canvas.tsx
 node_modules/@framer/anubisvic_ofx.interactive-form-elements/code/InputText.tsx
 node_modules/@framer/anubisvic_ofx.interactive-form-elements/build/index.js
 node_modules/@framer/anubisvic_ofx.interactive-form-elements/README.md
+design/images/vjITvAkNMbQD2a0F3B6OUyC12I.png
 design/images/ubsKjLEOh77PlL3wfMweTRyhbI.png
 design/images/rAqs7nCvmgHwm1a6OGVbqqUzxsA.png
 design/images/oyYAVESGNv2sNEsvD8RvOEcFfE.png

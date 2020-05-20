@@ -1707,7 +1707,6 @@ node_modules/@framer/anubisvic_ofx.interactive-form-elements/code/InputText.tsx
 node_modules/@framer/anubisvic_ofx.interactive-form-elements/build/index.js
 node_modules/@framer/anubisvic_ofx.interactive-form-elements/README.md
 design/images/vjITvAkNMbQD2a0F3B6OUyC12I.png
-design/images/ubsKjLEOh77PlL3wfMweTRyhbI.png
 design/images/rAqs7nCvmgHwm1a6OGVbqqUzxsA.png
 design/images/oyYAVESGNv2sNEsvD8RvOEcFfE.png
 design/images/np959BfAbJItNBo8vMkuY6DWFo.png
@@ -1718,23 +1717,17 @@ design/images/hnsAbL2Kda7EStb9vmfsCLKOk.png
 design/images/f74L36iyTojaohw3BWW4rVGeNY.png
 design/images/X34aPtf28farl7T7yOko2WwCAQ.png
 design/images/UkrqmEM4QcHbBAb8PMm4rjtgU.png
-design/images/S9RAsIzM0pkk8nQ6uK3Gp9dlkU.png
 design/images/QNyfDocZCo43UY7N3x3LoyK8ce8.png
-design/images/Q6R7HhvInNQVfARCsLhH7LFkGk.png
 design/images/NfaKEjHc1GjmrAGI0RwD12Bpqrw.png
 design/images/NEP2mpzyk1wXfiIdImoYfNx4o.png
 design/images/IezzAaB6pGesNaVkNse5YdmY.png
-design/images/IQfU3WBZvLVeyzznTPYL0XFV9Gg.png
 design/images/GsqWwNPS3vpMlEVuL3YTUYTAp4.png
 design/images/GNqX7nddVB6EpNqfgVrqM1wsF6w.png
 design/images/FEiVct9aIeOkfDZL2oIKKi4SqWM.png
 design/images/BjgOv2dke01RE32ARXTJJ01ME.png
 design/images/5sCrXAbCvosW6cjQ6xSjPHknofM.png
 design/images/0Yng3inlChYFZwwGHhpmFs46g.png
-design/assets/location1.json
 design/assets/location1 (3).json
-design/assets/location1 (2).json
-design/assets/location1 (1).json
 build/vendors.js
 build/framer.js
 index.html
